@@ -6,6 +6,6 @@
 
 #### Explain the difference bewteen continuous integration, continuous delivery, and continuous deployment, in your own words.  
 
-### Screencast : [Youtube](www.youtube.com/placeholder)  
+### Screencast : [Youtube](https://www.youtube.com/placeholder)  
 
 ### Steps for running Ansible and Playbook  
