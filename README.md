@@ -1,7 +1,7 @@
 # HW5
 ## Configuration Management   
 
-### Screencast : [Youtube](https://www.youtube.com/placeholder)  
+### Screencast : [Youtube](https://youtu.be/w6Fdg1IRew0)  
 
 ### Concepts  
 #### Q. Why should developers use configuration management tools to manage their software programs? What can go wrong?  
@@ -23,11 +23,11 @@ Things that can go wrong are:
   * The wrong tools being used for development
   * The wrong software being tested
   * The wrong test suite being used
-  * The wrong version of software being released
+  * The wrong version of software being released  
 
 
 
-
+  
 #### Q. Explain the difference bewteen continuous integration, continuous delivery, and continuous deployment, in your own words.  
 **Continuous Integration** is merging all the code from all the dvelopers to a central or master branch of a repository multiples times a day to avoid any conflicts in the code in the future. Continous integration enables automated building and testing so that teams can work together rapidly on a single project.
 
